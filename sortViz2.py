@@ -4,6 +4,8 @@
 # Rename the file as 'rld10.mp3' and save it in the same directory as
 # SortAlgoViz.py file.
 
+# Learning Git to make a commit.
+
 import pygame, random
 
 # To check if the music file exists
